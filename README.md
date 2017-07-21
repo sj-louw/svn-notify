@@ -1,7 +1,9 @@
-SVN/Notify version 2.87
-=======================
+svnnotify
+=========
 
-Patched with inline CSS support as per [this](http://teguheko.echodess.com/2009/11/svn-notify-html-colordiff-inline-cs/) blog
+version 2.87
+
+Patched with inline CSS support as per [this](http://teguheko.echodess.com/2009/11/svn-notify-html-colordiff-inline-cs/) blog.
 
 This class may be used for sending email messages for
 [Subversion](http://subversion.tigris.org/) repository activity. There are a
